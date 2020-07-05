@@ -1,0 +1,2 @@
+# VRM_BoardModelMaker
+立ち絵などから書き割り風VRMモデルを作るやつ
